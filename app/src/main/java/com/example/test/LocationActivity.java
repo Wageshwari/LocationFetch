@@ -143,7 +143,7 @@ public class LocationActivity extends AppCompatActivity  {
     }
 
 
-   
+
 
     private void location() {
         fusedLocationProviderClient = LocationServices.getFusedLocationProviderClient(this);
